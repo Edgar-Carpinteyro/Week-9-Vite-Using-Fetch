@@ -1,0 +1,21 @@
+:root {
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  color: rgba(63, 31, 204, 0.87);
+  background-image: url("/cat.png");
+  background-size:125px;
+  text-align: center;
+}
+
+body {
+  margin: 0;
+  display:inline-block;
+
+}
+
+h1 {
+  font-size: 3.2em;
+  line-height: 1.1;
+  background-color: rgba(255, 235, 205, 0.6);
+}
+
+
